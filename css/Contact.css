@@ -6,7 +6,9 @@
     font-size: 50px;
     padding-top: 5%;
     width: 65%;
+    animation: text 3s 1;
 }
+
 
 .txt-style2{
     margin-left: 7%;
@@ -66,5 +68,6 @@ button{
 	font-size: 18px;
     border-radius: 8px;
     border: 2px solid #1C1C1C;
+    
 }
 
